@@ -1,4 +1,8 @@
-### Hi there 👋
+### Ciao, I'm Lisa! 👋
+
+I am currently training to become a full-stack developer at [Founders and Coders](https://www.foundersandcoders.com/). I am passionate about web accessibiliy, all things CSS and making learning web developent a fun and attainable goal for everyone!
+
+I write code by day, philosophy by night and make art on the weekends.
 
 <!--
 **LiCern/LiCern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
