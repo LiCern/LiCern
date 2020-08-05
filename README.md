@@ -1,4 +1,4 @@
-### Ciao, I'm Lisa! 👋
+### Ciao, I'm Lisa! 🧚‍♀️
 
 I am currently training to become a full-stack developer at [Founders and Coders](https://www.foundersandcoders.com/). I am passionate about web accessibiliy, all things CSS and making learning web developent a fun and attainable goal for everyone!
 
